@@ -67,6 +67,9 @@
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\SpecularLightingEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>C:/Users/MECHREVO/Documents/GitHub/WCO-1011-3D-pracs-2020t3g1/3D Pracs/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/MECHREVO/Documents/GitHub/WCO-1011-3D-pracs-2020t3g1/3D Pracs/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
@@ -327,6 +330,27 @@
     </Reference>
     <Reference Include="UnityEditor.Analytics">
       <HintPath>C:/Users/MECHREVO/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="AssetIdRemapUtility">
+      <HintPath>C:/Users/MECHREVO/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.10.1/ProBuilder/AssetIdRemapUtility/Editor/AssetIdRemapUtility.dll</HintPath>
+    </Reference>
+    <Reference Include="ProBuilderCore">
+      <HintPath>C:/Users/MECHREVO/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.10.1/ProBuilder/Classes/ProBuilderCore.dll</HintPath>
+    </Reference>
+    <Reference Include="ProBuilderMeshOps">
+      <HintPath>C:/Users/MECHREVO/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.10.1/ProBuilder/Classes/ProBuilderMeshOps.dll</HintPath>
+    </Reference>
+    <Reference Include="KdTreeLib">
+      <HintPath>C:/Users/MECHREVO/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.10.1/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="pb_Stl">
+      <HintPath>C:/Users/MECHREVO/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.10.1/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+    </Reference>
+    <Reference Include="Poly2Tri">
+      <HintPath>C:/Users/MECHREVO/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.10.1/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+    </Reference>
+    <Reference Include="ProBuilderEditor">
+      <HintPath>C:/Users/MECHREVO/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.10.1/ProBuilder/Editor/ProBuilderEditor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>C:/Users/MECHREVO/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
