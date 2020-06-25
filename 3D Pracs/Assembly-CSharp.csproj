@@ -63,6 +63,10 @@
   <ItemGroup>
     <Compile Include="Assets\Interactivity\ClickToAnim.cs" />
     <Compile Include="Assets\Interactivity\TriggerToAnim.cs" />
+    <Compile Include="Assets\Navigation Scripts\EnemyChase.cs" />
+    <Compile Include="Assets\Navigation Scripts\EnemyPatrol.cs" />
+    <Compile Include="Assets\Navigation Scripts\GoalMover.cs" />
+    <Compile Include="Assets\Navigation Scripts\GoalSetting.cs" />
     <None Include="Assets\Textures\readme.txt" />
     <None Include="Assets\readme.txt" />
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
